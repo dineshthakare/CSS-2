@@ -1,0 +1,17 @@
+#one{
+    color: yellow;
+    font-size: 50px;
+}
+
+*{
+    background-color: red;
+}
+#thr{
+    background-image: linear-gradient(rgb(125, 227, 245),rgb(170, 222, 247),rgb(119, 119, 231));
+    padding: 9px;
+}
+
+#fr{
+    padding: 10px;
+    background-image: radial-gradient(circle,white,yellow,white);
+}
